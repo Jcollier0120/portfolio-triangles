@@ -1,0 +1,8 @@
+M:\Projects\Triangles\UnitTests\bin\Debug\UnitTests.dll
+M:\Projects\Triangles\UnitTests\bin\Debug\UnitTests.pdb
+M:\Projects\Triangles\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\Projects\Triangles\UnitTests\bin\Debug\Triangles.exe
+M:\Projects\Triangles\UnitTests\bin\Debug\Triangles.pdb
+M:\Projects\Triangles\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+M:\Projects\Triangles\UnitTests\obj\Debug\UnitTests.dll
+M:\Projects\Triangles\UnitTests\obj\Debug\UnitTests.pdb

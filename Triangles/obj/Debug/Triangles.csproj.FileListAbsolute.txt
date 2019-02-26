@@ -1,0 +1,6 @@
+M:\Projects\Triangles\Triangles\bin\Debug\Triangles.exe.config
+M:\Projects\Triangles\Triangles\bin\Debug\Triangles.exe
+M:\Projects\Triangles\Triangles\bin\Debug\Triangles.pdb
+M:\Projects\Triangles\Triangles\obj\Debug\Triangles.csprojResolveAssemblyReference.cache
+M:\Projects\Triangles\Triangles\obj\Debug\Triangles.exe
+M:\Projects\Triangles\Triangles\obj\Debug\Triangles.pdb
